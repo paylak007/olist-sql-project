@@ -1,0 +1,4 @@
+*.csv
+olist.db
+results.txt
+.DS_Store
